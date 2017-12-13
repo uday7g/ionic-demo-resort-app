@@ -1,4 +1,5 @@
 # Ionic Framework Demo App
+# Demo
 
 This is a demo app built with the Ionic Framework that you can preview in the browser or clone and run locally on an emulator or device.
 
